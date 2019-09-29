@@ -9,3 +9,9 @@
 .nav-item {
   margin-top: 1rem;
 }
+
+/* Added some styling to h1 elements */
+h1 {
+  text-align: center;
+  margin: 10px;
+}
